@@ -1,4 +1,4 @@
-div align='center'>
+<div align='center'>
  
  ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
  ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -8,7 +8,7 @@ div align='center'>
  
  <div align="center">
  
-  <img alt="project" src="./projeto.png" width="80%">
+ 
   
 </div>
 
