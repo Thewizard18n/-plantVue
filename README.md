@@ -8,7 +8,7 @@
  
  <div align="center">
  
- 
+ <img alt="project" src="./logo.png" width="80%">
   
 </div>
 
